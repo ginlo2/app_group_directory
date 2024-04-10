@@ -2,7 +2,7 @@ name: app_group_directory
 description: >-
   Retrieve App Group directory on iOS.
   Port of FileManager.containerURL to Flutter.
-version: 2.0.0
+version: 2.0.1
 homepage: https://github.com/Albert221/app_group_directory
 
 environment:
